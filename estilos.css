@@ -1,0 +1,41 @@
+h1{
+color:#FF5733;
+font-size: 24px;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+width: 300px;
+height: 70px;
+padding: 10px;
+margin: 10px;
+
+}
+
+p{
+    color:#E1E1E1; /* Para que ficasse igual ao protótipo, teriamos que usar color: black; e adicionar background-color: white;*/
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;  
+    text-align: left;
+    width: 200px;
+    height: 45px;
+    padding: 20px; 
+    margin: 10px;
+    
+}
+
+li
+{
+    color:#FF5733;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    width: 200px;
+    height: 35px;
+    padding: 5px;
+    margin: 10px;
+    border: 1px solid red;
+    
+}
+
+body{
+background-image: url(night.jpg); jav
+}
